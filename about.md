@@ -9,10 +9,10 @@ sitemap:
 ---
 ## About myself
 
-<span class="image left"><img src="{{ "/images/photo01.jpg" | absolute_url }}" alt="" /></span>
+<span class="image main"><img src="{{ "/images/photo01.jpg" | absolute_url }}" alt="" /></span>
 
-Travel & have fun 
+                          Travel & have fun 
 
-<span class="image left"><img src="{{ "/images/photo02.jpg" | absolute_url }}" alt="" /></span>
+<span class="image main"><img src="{{ "/images/photo02.jpg" | absolute_url }}" alt="" /></span>
 
-Singing & chorus
+                          Singing & chorus
