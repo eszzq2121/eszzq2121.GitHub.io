@@ -13,6 +13,6 @@ sitemap:
 
 Travel & have fun 
 
-<span class="image right"><img src="{{ "/images/photo02.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/photo02.jpg" | absolute_url }}" alt="" /></span>
 
 Singing & chorus
