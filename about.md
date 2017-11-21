@@ -9,8 +9,10 @@ sitemap:
 ---
 ## About myself
 
+<figure class="third">
+    <img src="/images/photo01.jpg">
+    <img src="/images/photo04.jpg">
+    <img src="/images/photo03.jpg">
+</figure>
 
-<span class="image fit"><img src="{{ "/images/photo01.jpg" | absolute_url }}" alt="" /></span>
-<span class="image fit"><img src="{{ "/images/photo04.jpg" | absolute_url }}" alt="" /></span>
-<span class="image fit"><img src="{{ "/images/photo03.jpg" | absolute_url }}" alt="" /></span>
 
