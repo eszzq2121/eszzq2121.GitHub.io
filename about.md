@@ -9,10 +9,11 @@ sitemap:
 ---
 ## About myself
 
-<figure class="third">
-    <img src="/images/photo01.jpg">
-    <img src="/images/photo04.jpg">
-    <img src="/images/photo03.jpg">
-</figure>
-
-
+<div class="box alt">
+		<div class="row 50% uniform">
+			<div class="4u"><span class="image fit"><img src="{{ "/images/photo01.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/photo04.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/images/photo03.jpg" alt="" /></span></div>
+			<!-- Break -->
+		</div>
+	</div>
