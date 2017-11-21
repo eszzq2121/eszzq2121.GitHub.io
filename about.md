@@ -9,12 +9,8 @@ sitemap:
 ---
 ## About myself
 
-### Travel & have fun 
-<span class="image main"><img src="{{ "/images/photo01.jpg" | absolute_url }}" alt="" /></span>
 
-### Singing & chorus
-<span class="image main"><img src="{{ "/images/photo04.jpg" | absolute_url }}" alt="" /></span>
-
-### Explorer
-<span class="image main"><img src="{{ "/images/photo03.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/photo01.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/photo04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/photo03.jpg" | absolute_url }}" alt="" /></span>
 
