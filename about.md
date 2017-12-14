@@ -7,7 +7,8 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Education***
+## Education
+***
 ![THU](http://i1.bvimg.com/623513/cca14a2d39b394e3.png)
 
 **Bachelor’s Degree of Engineering in Construction Management**  
@@ -23,8 +24,8 @@ sitemap:
 * Tsinghua Scholarship for Art Excellence (10%)  
 
 
-## My Research***  
-
+## My Research
+***
 #### Quantify Human Mobility Resilience under Disasters based on Social Data
 <p><span class="image left"><img src="{{ "http://i1.bvimg.com/623513/1614b524638c7543.png" | absolute_url }}" alt="" /></span>
 We use SNAP Gowalla dataset to validate the human mobility pattern in earthquake and terrorism attack. 
@@ -36,7 +37,8 @@ The finding can be interpreted as (1) individually, people are tend to concentra
 #### Semantic analysis of second-hand housing listing advertising slogan
 
 
-## Working Experience***
+## Working Experience
+***
 * The Boston Consulting Group(BCG)
 * Morgan Stanley Capital International(MSCI)
 * CIFI Group, Shanghai Division	
