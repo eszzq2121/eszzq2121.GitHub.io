@@ -35,7 +35,9 @@ The finding can be interpreted as (1) individually, people are tend to concentra
 (2) globally, the earthquake will make the crowd travel in a larger area.</p>
 
 #### Semantic analysis of second-hand housing listing advertising slogan
-
+Used Natural Language Processing (NLP) to analyze and quantify different Chinese advertising slogans on estate companies’ websites and their influence on consuming behaviors.  
+  
+  
 
 ## Working Experience
 ***
