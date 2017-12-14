@@ -7,8 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Education
-***
+## Education***
 ![THU](http://i1.bvimg.com/623513/cca14a2d39b394e3.png)
 
 **Bachelor’s Degree of Engineering in Construction Management**  
@@ -24,21 +23,24 @@ sitemap:
 * Tsinghua Scholarship for Art Excellence (10%)  
 
 
-## My Research
-***  
+## My Research***  
 
-##### Quantify Human Mobility Resilience under Disasters based on Social Data
+#### Quantify Human Mobility Resilience under Disasters based on Social Data
+<p><span class="image left"><img src="{{ "http://i1.bvimg.com/623513/1614b524638c7543.png" | absolute_url }}" alt="" /></span>
+We use SNAP Gowalla dataset to validate the human mobility pattern in earthquake and terrorism attack. 
+After generalizing the impact of human mobility to man-made disaster, we also found the social data inefficiency in short-distance detection. 
+The fitting result of the radius of gyration reveals the mechanism of disaster impact on human mobility, changing individual behaviors as well as the overall patterns. 
+The finding can be interpreted as (1) individually, people are tend to concentrate their travel distance in a relatively short distance range, 
+(2) globally, the earthquake will make the crowd travel in a larger area.</p>
+
+#### Semantic analysis of second-hand housing listing advertising slogan
 
 
-##### Semantic analysis of second-hand housing listing advertising slogan
-
-
-## Working Experience
-***
-##### The Boston Consulting Group
-##### Morgan Stanley Capital International
-##### CIFI Group, Shanghai Division	
-##### China Resources Land Limited, Beijing Division
+## Working Experience***
+* The Boston Consulting Group(BCG)
+* Morgan Stanley Capital International(MSCI)
+* CIFI Group, Shanghai Division	
+* China Resources Land Limited, Beijing Division
 
 
 ***
