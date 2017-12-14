@@ -8,10 +8,11 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-<p><span class="image left"><img src="{{ "http://i1.bvimg.com/623513/cca14a2d39b394e3.png" | absolute_url }}" alt="" /></span>
-<br /><br /><b>Bachelor’s Degree of Engineering in Construction Management<br />  
+<span class="image center"><img src="{{ "http://i1.bvimg.com/623513/cca14a2d39b394e3.png" | absolute_url }}" alt="" /></span>
+<br />
+<b>Bachelor’s Degree of Engineering in Construction Management<br />  
 Double Bachelor’s Degree in Business Administration<br />  
-GPA:3.77/4.00</b><br /><br />  </p>
+GPA:3.77/4.00</b><br /><br />
 
 
 * Tsinghua Scholarship for General Excellence (5%)  
