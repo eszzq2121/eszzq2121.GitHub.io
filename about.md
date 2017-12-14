@@ -8,18 +8,17 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-![Bachelor’s Degree of Engineering in Construction Management](http://i1.bvimg.com/623513/cca14a2d39b394e3.png)
-
-Bachelor’s Degree of Engineering in Construction Management  
+<span class="image left"><img src="{{ "http://i1.bvimg.com/623513/cca14a2d39b394e3.png" | absolute_url }}" alt="" /></span>
+**Bachelor’s Degree of Engineering in Construction Management  
 Double Bachelor’s Degree in Business Administration  
-GPA:3.77/4.00   
+GPA:3.77/4.00  ** 
 
-Tsinghua Scholarship for General Excellence (5%)  
-Tsinghua Scholarship for Scientific Research and Competition (10%)  
-Tsinghua Scholarship for Social Work (10%)  
-Tsinghua Scholarship for Social Practice (10%)  
-Tsinghua Scholarship for Volunteer (10%)  
-Tsinghua Scholarship for Art Excellence (10%)  
+*Tsinghua Scholarship for General Excellence (5%)  
+*Tsinghua Scholarship for Scientific Research and Competition (10%)  
+*Tsinghua Scholarship for Social Work (10%)  
+*Tsinghua Scholarship for Social Practice (10%)  
+*Tsinghua Scholarship for Volunteer (10%)  
+*Tsinghua Scholarship for Art Excellence (10%)  
 
 
 ## My Research
@@ -32,12 +31,10 @@ Tsinghua Scholarship for Art Excellence (10%)
 		<div class="row 50% uniform">
 			<div class="4u"><span class="image fit"><img src="{{ "http://i1.bvimg.com/623513/0bc799f7fc710c63.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="{{ "http://i1.bvimg.com/623513/f0eb4b3571ee66ab.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="http://i1.bvimg.com/623513/7681f3dda6d90a14.jpg" alt="" />
+			<div class="4u$"><span class="image fit"><img src="http://i1.bvimg.com/623513/7681f3dda6d90a14.jpg" alt="" /></span></div>
 			<!-- Break -->
 			<div class="4u"><span class="image fit"><img src="{{ "http://i1.bvimg.com/623513/d25fd7813fb3a475.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="{{ "http://i4.bvimg.com/623513/499dc42754913d6b.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="http://i4.bvimg.com/623513/3f5a283b2d458274.jpg" alt="" />
-			</span></div>
-			<!-- Break -->
+			<div class="4u$"><span class="image fit"><img src="http://i4.bvimg.com/623513/3f5a283b2d458274.jpg" alt="" /></span></div>
 		</div>
 	</div>
