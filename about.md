@@ -8,6 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
+***
 ![THU](http://i1.bvimg.com/623513/cca14a2d39b394e3.png)
 
 **Bachelor’s Degree of Engineering in Construction Management**  
@@ -23,20 +24,21 @@ sitemap:
 * Tsinghua Scholarship for Art Excellence (10%)  
 
 
-## My Research  
+## My Research
+***  
 
-### Quantify Human Mobility Resilience under Disasters based on Social Data
+##### Quantify Human Mobility Resilience under Disasters based on Social Data
 
 
-### Semantic analysis of second-hand housing listing advertising slogan
+##### Semantic analysis of second-hand housing listing advertising slogan
 
 
 ## Working Experience
-
-### The Boston Consulting Group
-### Morgan Stanley Capital International
-### CIFI Group, Shanghai Division	
-### China Resources Land Limited, Beijing Division
+***
+##### The Boston Consulting Group
+##### Morgan Stanley Capital International
+##### CIFI Group, Shanghai Division	
+##### China Resources Land Limited, Beijing Division
 
 
 ***
