@@ -51,7 +51,7 @@ Used Natural Language Processing (NLP) to analyze and quantify different Chinese
 			<div class="4u"><span class="image fit"><img src="{{ "http://i1.bvimg.com/623513/f0eb4b3571ee66ab.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u$"><span class="image fit"><img src="http://i2.bvimg.com/623513/6d2584d96bd921e9.jpg" alt="" /></span></div>
 			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="{{ "http://i2.bvimg.com/623513/9c54937651320ffe.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "http://i2.bvimg.com/623513/029b7dd56fda96cb.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="{{ "http://i4.bvimg.com/623513/499dc42754913d6b.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u$"><span class="image fit"><img src="http://i4.bvimg.com/623513/3f5a283b2d458274.jpg" alt="" /></span></div>
 		</div>
