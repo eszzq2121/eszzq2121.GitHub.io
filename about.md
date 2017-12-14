@@ -9,16 +9,20 @@ sitemap:
 ---
 ## Education
 <span class="image left"><img src="{{ "http://i1.bvimg.com/623513/cca14a2d39b394e3.png" | absolute_url }}" alt="" /></span>
-**Bachelor’s Degree of Engineering in Construction Management  
+  
+  
+  
+  
+** Bachelor’s Degree of Engineering in Construction Management  
 Double Bachelor’s Degree in Business Administration  
 GPA:3.77/4.00  ** 
 
-*Tsinghua Scholarship for General Excellence (5%)  
-*Tsinghua Scholarship for Scientific Research and Competition (10%)  
-*Tsinghua Scholarship for Social Work (10%)  
-*Tsinghua Scholarship for Social Practice (10%)  
-*Tsinghua Scholarship for Volunteer (10%)  
-*Tsinghua Scholarship for Art Excellence (10%)  
+* Tsinghua Scholarship for General Excellence (5%)  
+* Tsinghua Scholarship for Scientific Research and Competition (10%)  
+* Tsinghua Scholarship for Social Work (10%)  
+* Tsinghua Scholarship for Social Practice (10%)  
+* Tsinghua Scholarship for Volunteer (10%)  
+* Tsinghua Scholarship for Art Excellence (10%)  
 
 
 ## My Research
