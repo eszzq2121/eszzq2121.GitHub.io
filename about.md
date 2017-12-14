@@ -8,11 +8,11 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-<span class="image center"><img src="{{ "http://i1.bvimg.com/623513/cca14a2d39b394e3.png" | absolute_url }}" alt="" /></span>
-<br />
-<b>Bachelor’s Degree of Engineering in Construction Management<br />  
-Double Bachelor’s Degree in Business Administration<br />  
-GPA:3.77/4.00</b><br /><br />
+![THU](http://i1.bvimg.com/623513/cca14a2d39b394e3.png)
+
+**Bachelor’s Degree of Engineering in Construction Management**  
+**Double Bachelor’s Degree in Business Administration**  
+**GPA:3.77/4.00**  
 
 
 * Tsinghua Scholarship for General Excellence (5%)  
@@ -23,9 +23,20 @@ GPA:3.77/4.00</b><br /><br />
 * Tsinghua Scholarship for Art Excellence (10%)  
 
 
-## My Research
- 
+## My Research  
 
+### Quantify Human Mobility Resilience under Disasters based on Social Data
+
+
+### Semantic analysis of second-hand housing listing advertising slogan
+
+
+## Working Experience
+
+### The Boston Consulting Group
+### Morgan Stanley Capital International
+### CIFI Group, Shanghai Division	
+### China Resources Land Limited, Beijing Division
 
 
 ***
