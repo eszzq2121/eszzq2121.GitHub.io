@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-<span class="image fit"><img src="{{ "/images/tsinghua.jpg" | absolute_url }}" alt="" />
+![Tsinghua](/images/tsinghua.jpg)
 
 **Bachelor’s Degree of Engineering in Construction Management**  
 **Double Bachelor’s Degree in Business Administration**  
