@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-![THU](eszzq2121.github.io/images/tsinghua.jpg)
+<span class="image fit"><img src="{{ "/images/tsinghua.jpg" | absolute_url }}" alt="" />
 
 **Bachelor’s Degree of Engineering in Construction Management**  
 **Double Bachelor’s Degree in Business Administration**  
@@ -49,10 +49,10 @@ Used Natural Language Processing (NLP) to analyze and quantify different Chinese
 		<div class="row 50% uniform">
 			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo01.jpg" | absolute_url }}" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo03.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="eszzq2121.github.io/images/photo04.jpg" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/images/photo04.jpg" alt="" /></span></div>
 			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo05.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo06.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="eszzq2121.github.io/images/photo07.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/photo05.jpeg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/images/photo06.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/images/photo07.jpg" alt="" /></span></div>
 		</div>
 	</div>
