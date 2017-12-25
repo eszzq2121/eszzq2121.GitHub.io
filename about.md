@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-![THU](/image/tsinghua.jpg)
+![THU](eszzq2121.github.io/images/tsinghua.jpg)
 
 **Bachelor’s Degree of Engineering in Construction Management**  
 **Double Bachelor’s Degree in Business Administration**  
@@ -25,7 +25,7 @@ sitemap:
 ***
 ## My Research
 ### Quantify Human Mobility Resilience under Disasters based on Social Data
-<p><span class="image left"><img src="{{ "/image/resilience.png" | absolute_url }}" alt="" /></span>
+<p><span class="image left"><img src="{{ "eszzq2121.github.io/images/resilience.png" | absolute_url }}" alt="" /></span>
 We use SNAP Gowalla dataset to validate the human mobility pattern in earthquake and terrorism attack. 
 After generalizing the impact of human mobility to man-made disaster, we also found the social data inefficiency in short-distance detection. 
 The fitting result of the radius of gyration reveals the mechanism of disaster impact on human mobility, changing individual behaviors as well as the overall patterns. 
@@ -47,12 +47,12 @@ Used Natural Language Processing (NLP) to analyze and quantify different Chinese
 ***
 <div class="box alt">
 		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="{{ "/image/photo01.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{{ "/image/photo03.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="/image/photo04.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo01.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo03.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="eszzq2121.github.io/images/photo04.jpg" alt="" /></span></div>
 			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="{{ "/image/photo05.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{{ "/image/photo06.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="/image/photo07.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo05.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "eszzq2121.github.io/images/photo06.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="eszzq2121.github.io/images/photo07.jpg" alt="" /></span></div>
 		</div>
 	</div>
