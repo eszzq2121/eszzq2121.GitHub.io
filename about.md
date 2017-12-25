@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Education
-![THU](http://i1.bvimg.com/623513/cca14a2d39b394e3.png)
+![THU](/image/tsinghua.jpg)
 
 **Bachelor’s Degree of Engineering in Construction Management**  
 **Double Bachelor’s Degree in Business Administration**  
@@ -25,7 +25,7 @@ sitemap:
 ***
 ## My Research
 ### Quantify Human Mobility Resilience under Disasters based on Social Data
-<p><span class="image left"><img src="{{ "http://i1.bvimg.com/623513/1614b524638c7543.png" | absolute_url }}" alt="" /></span>
+<p><span class="image left"><img src="{{ "/image/resilience.png" | absolute_url }}" alt="" /></span>
 We use SNAP Gowalla dataset to validate the human mobility pattern in earthquake and terrorism attack. 
 After generalizing the impact of human mobility to man-made disaster, we also found the social data inefficiency in short-distance detection. 
 The fitting result of the radius of gyration reveals the mechanism of disaster impact on human mobility, changing individual behaviors as well as the overall patterns. 
@@ -47,12 +47,12 @@ Used Natural Language Processing (NLP) to analyze and quantify different Chinese
 ***
 <div class="box alt">
 		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="{{ "http://i1.bvimg.com/623513/0bc799f7fc710c63.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{{ "http://i1.bvimg.com/623513/f0eb4b3571ee66ab.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="http://i2.bvimg.com/623513/6d2584d96bd921e9.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/image/photo01.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/image/photo03.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/image/photo04.jpg" alt="" /></span></div>
 			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="{{ "http://i2.bvimg.com/623513/029b7dd56fda96cb.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="{{ "http://i4.bvimg.com/623513/499dc42754913d6b.jpg" | absolute_url }}" alt="" /></span></div>
-			<div class="4u$"><span class="image fit"><img src="http://i4.bvimg.com/623513/3f5a283b2d458274.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/image/photo05.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="{{ "/image/photo06.jpg" | absolute_url }}" alt="" /></span></div>
+			<div class="4u$"><span class="image fit"><img src="/image/photo07.jpg" alt="" /></span></div>
 		</div>
 	</div>
